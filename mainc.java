@@ -2,8 +2,7 @@ package amna;
 
 import amna.user.Receotionist;
 import amna.user.billing;
-import amna.user.doctor;
-import amna.user.patient;
+
 
 public class mainc {
 	public static void main(String args[]){
@@ -35,6 +34,7 @@ public class mainc {
 
 	
 }
+
 
 
 
