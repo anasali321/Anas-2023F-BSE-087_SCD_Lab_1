@@ -44,7 +44,26 @@ class billing {
 		System.out.println("bill number "+billno+"for"+pname+":rs."+billamount );
 		
 	}
+
+	class billing {
+	int billno;
+	int pid;
+	String pname;
+	float billamount;
+	
+	billing(int billno , int pid,String pname, float billamount){
+		this.billno=billno;
+		this.pid=pid;
+		this.pname=pname;
+		this.billamount=billamount;
+		
+	}
+	void show(){
+		System.out.println("bill number "+billno+"for"+pname+":rs."+billamount );
+		
+	}
 	
 	
 }
 }
+
