@@ -1,8 +1,7 @@
 package amna;
 
 import amna.user.Receotionist;
-import amna.user.billing;
-
+D
 
 public class mainc {
 	public static void main(String args[]){
@@ -31,6 +30,7 @@ public class mainc {
 
 	
 }
+
 
 
 
