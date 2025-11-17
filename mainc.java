@@ -1,16 +1,11 @@
 package amna;
 
 import amna.user.Receotionist;
-import amna.user.billing;
-import amna.user.doctor;
-import amna.user.patient;
+D
 
 public class mainc {
 	public static void main(String args[]){
-		user u =new user();
-		u.choice();
 		
-		Receotionist r =new Receotionist();
 		r.id=1;
 		r.name="amna";
 	
@@ -35,6 +30,9 @@ public class mainc {
 
 	
 }
+
+
+
 
 
 
